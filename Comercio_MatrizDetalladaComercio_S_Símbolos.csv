@@ -1,0 +1,8 @@
+Símbolo,Descripción
+*,Cifras no oficiales
+<vacío>,Datos oficiales
+A,Agregado; puede incluir datos oficiales; semi-oficiales; estimados o calculados
+F,Estimación FAO
+Im,Datos de FAO basados en una metodología de imputación
+M,Datos no disponibles
+R,Datos estimados utilizando la base de datos de los países socios
